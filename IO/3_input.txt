@@ -1,0 +1,9 @@
+3
+7
+abc
+abd
+abc
+bcd
+dca
+bbb
+bad
